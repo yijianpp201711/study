@@ -14,7 +14,7 @@ public class Phone {
     public Phone() {
 
 
-        this.owner = "董存辉的";
+        this.owner = "董存辉";
 
 
     }
